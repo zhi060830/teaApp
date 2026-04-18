@@ -1,0 +1,9 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": {
+    "storeName": "星巴克（国贸店）",
+    "distance": "1.2km",
+    "address": "国贸商城B1层"
+  }
+}
