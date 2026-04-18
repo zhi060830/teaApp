@@ -1,0 +1,12 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": [
+    {"id": 101, "name": "经典拿铁", "price": 28, "image": "https://via.placeholder.com/200x200/FFC107"},
+    {"id": 102, "name": "草莓芝士蛋糕", "price": 32, "image": "https://via.placeholder.com/200x200/E91E63"},
+    {"id": 103, "name": "抹茶拿铁", "price": 30, "image": "https://via.placeholder.com/200x200/4CAF50"},
+    {"id": 104, "name": "柠檬蜂蜜茶", "price": 25, "image": "https://via.placeholder.com/200x200/03A9F4"},
+    {"id": 105, "name": "经典美式", "price": 22, "image": "https://via.placeholder.com/200x200/795548"},
+    {"id": 106, "name": "蓝莓马芬", "price": 18, "image": "https://via.placeholder.com/200x200/9C27B0"}
+  ]
+}
