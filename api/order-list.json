@@ -1,0 +1,27 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": [
+    {
+      "orderId": "O20250418001",
+      "createTime": "2025-04-18 14:30",
+      "status": "待取餐",
+      "totalPrice": 60,
+      "goodsNum": 2,
+      "goods": [
+        { "name": "抹茶拿铁", "price": 30, "num": 1 },
+        { "name": "蓝莓马芬", "price": 18, "num": 1 }
+      ]
+    },
+    {
+      "orderId": "O20250417002",
+      "createTime": "2025-04-17 19:20",
+      "status": "已完成",
+      "totalPrice": 28,
+      "goodsNum": 1,
+      "goods": [
+        { "name": "经典拿铁", "price": 28, "num": 1 }
+      ]
+    }
+  ]
+}
