@@ -1,0 +1,20 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": [
+    {
+      "id": 1,
+      "name": "张先生",
+      "phone": "13800138000",
+      "address": "国贸大厦B座 10楼1008",
+      "isDefault": true
+    },
+    {
+      "id": 2,
+      "name": "李女士",
+      "phone": "13900139000",
+      "address": "万达广场 3楼301",
+      "isDefault": false
+    }
+  ]
+}
