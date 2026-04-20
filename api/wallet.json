@@ -1,0 +1,10 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": {
+    "balance": 256.50,
+    "couponCount": 3,
+    "point": 128,
+    "card": "高级会员卡"
+  }
+}
