@@ -1,0 +1,9 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": {
+    "version": "v1.0.0",
+    "desc": "Tea+ 专注新鲜茶饮、咖啡、烘焙，用心做好每一杯。",
+    "copyright": "© 2025 Tea+ All Rights Reserved"
+  }
+}
