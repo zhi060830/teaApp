@@ -1,0 +1,14 @@
+{
+  "code": 200,
+  "message": "登录成功",
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9TeaPlusToken2025",
+    "userInfo": {
+      "userId": 10001,
+      "nickname": "星辰大海",
+      "avatar": "https://via.placeholder.com/100",
+      "phone": "13800138000",
+      "memberLevel": "高级会员"
+    }
+  }
+}
