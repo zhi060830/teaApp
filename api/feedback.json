@@ -1,0 +1,9 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": {
+    "phone": "400-888-9999",
+    "time": "9:00-22:00",
+    "email": "service@teaplus.com"
+  }
+}
