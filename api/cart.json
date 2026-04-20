@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": {
+    "totalPrice": 98,
+    "goodsNum": 3,
+    "list": [
+      {
+        "id": 1,
+        "goodsId": 101,
+        "name": "经典拿铁",
+        "price": 28,
+        "image": "https://via.placeholder.com/200x200/FFC107",
+        "num": 1,
+        "spec": "中杯/热/少糖"
+      },
+      {
+        "id": 2,
+        "goodsId": 102,
+        "name": "草莓芝士蛋糕",
+        "price": 32,
+        "image": "https://via.placeholder.com/200x200/E91E63",
+        "num": 1,
+        "spec": "常温"
+      },
+      {
+        "id": 3,
+        "goodsId": 105,
+        "name": "经典美式",
+        "price": 22,
+        "image": "https://via.placeholder.com/200x200/795548",
+        "num": 1,
+        "spec": "中杯/冰"
+      }
+    ]
+  }
+}
