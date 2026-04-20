@@ -1,0 +1,10 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": {
+    "notice": true,
+    "sound": true,
+    "autoLogin": true,
+    "clearCache": "12.8MB"
+  }
+}
